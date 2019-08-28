@@ -1,4 +1,17 @@
-#Placeholder for a model
-
 class Article < ActiveRecord::Base
-end
+  
+    # attr_accessor :title, :content
+    
+    # @articles = []
+    
+    # def initialize(title, content)
+    #   self.title = title
+    #   self.content = content
+    #   @articles << self
+    # end
+    
+    # def self.all
+    #   return @articles
+    # end
+    
+  end
